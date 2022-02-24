@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The complaint of liberty &amp; property against arbitrary government dedicated to all true English men, and lovers of liberty, laws, and religion.</title>
+            <author>Nalson, John, 1638?-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53116</idno>
+            <idno type="STC">Wing N94</idno>
+            <idno type="STC">ESTC R5910</idno>
+            <idno type="EEBO-CITATION">12986823</idno>
+            <idno type="OCLC">ocm 12986823</idno>
+            <idno type="VID">96219</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96219)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 393:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The complaint of liberty &amp; property against arbitrary government dedicated to all true English men, and lovers of liberty, laws, and religion.</title>
+                  <author>Nalson, John, 1638?-1686.</author>
+               </titleStmt>
+               <extent>[3], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Steel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by J. Nalson. Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96219:1"/>
+            <pb facs="tcp:96219:1" rendition="simple:additions"/>
+            <p>THE COMPLAINT OF LIBERTY &amp; PROPERTY AGAINST Arbitrary Government: DEDICATED To all True Engliſh Men, and Lovers OF <hi>Liberty, Laws, and Religion.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Robert Steel,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:96219:2"/>
+            <pb n="1" facs="tcp:96219:2"/>
+            <head>The Complaint of Liberty, <hi>&amp;c.</hi>
+            </head>
+            <p>THere is no Nation under Heaven that enjoys a greater ſhare of what all Mankind covet, than the <hi>Engliſh;</hi> nor is there any thing of which they are more Jealous, than the Liberty of their Perſons, and the <hi>Property</hi> of their Eſtates; And with good Reaſon: For there is but a Third, which is <hi>Health</hi> to Enjoy theſe, which renders Human Life as happy as this World can afford; And for this Reaſon our Anceſtors have obtained all thoſe admi<g ref="char:EOLhyphen"/>rable Laws, which ſtand as a continual Guard about us Night and Day, to Protect our Freedom and our Eſtates.</p>
+            <p>There is a known Fable of the Dog, that coveting the Shadow loſt the Subſtance, and once already we of this Nation have been ſo ſtupid to turn the Fable into Truth. We were frighted with the ſhadow of the Govern<g ref="char:EOLhyphen"/>ment, which we were told had a black, and longer Reach, than did appear, and were Terrified out of our Wits, Reaſon and Religion, into a moſt bloody and unnatural War, and at laſt into that very Miſchief, which we took up unlawful Arms to avoid.</p>
+            <p>To cry out againſt <hi>Arbitrary Government</hi> is of late become not only a Virtue but a point of Religion, and has been ſet up as a Mark and Eſtimate of a True Proteſtant: But to lay the Saddle upon the right Horſe is ac<g ref="char:EOLhyphen"/>counted a Crime ſo great, that whoever attempts it, is preſently cryed out upon, for a Papiſt. And the Reaſon is evident, for they who make all this noiſe about it, are the moſt Arbitrary principled perſons in the World, and if I do not make it appear ſo, I will be content to be eſteemed the moſt infamous Lyar under the Cope of Heaven: But if I ſpeak Truth, and ſuch evident Truth as is perfect matter of Fact, and too notorioufly known by. Thouſands yet Living, to be denied. If I cannot prevent the Miſchiefs, which may follow theſe wild and groundleſs Clamors againſt the Government, I ſhall however diſcharge my Conſcience to my Neigh<g ref="char:EOLhyphen"/>bour, and my Duty to God, and my King, and leave a Teſtimony againſt ſuch as pretend to be Religious, for <hi>ſpeaking Evil of Dignities,</hi> and <hi>deſpi<g ref="char:EOLhyphen"/>ſing Dominions,</hi> which will one day riſe up in Judgement againſt them, and defeat them of the Plea <hi>That they did it ignorantly.</hi>
+            </p>
+            <p>I would only deſire the honeſt Reader to Enquire who they were that firſt cryed out againſt <hi>Arbitrary Government,</hi> or the Deſigns of it in the Reign of King <hi>Charles</hi> the Firſt? It was the <hi>Proteſtant Diſſenters,</hi> and principally thoſe then called <hi>Presbyterians.</hi> Let them deny it if they can or dare: For if they do, I will ſhew that they not only did it, but gloried in it; and were reputed the moſt noble Patriots, and ſo ſtyled for ſo doing.</p>
+            <p>Who was it that animated the People to take up Arms for Defence of <hi>Liberty,</hi> and <hi>Property,</hi> againſt the King? The very ſame.</p>
+            <p>Who maintained, continued, and finiſhed the War, and the Tragedy of the Kings Murther? The ſame Men, though now they had gotten new Frocks and Vizards on, and called themſelves <hi>Iudependents,</hi> or, <hi>Congre<g ref="char:EOLhyphen"/>gational Church-Men;</hi> a Name that comprehended all Sects, and Opinions. I love Truth, and will ſpeak it, Many of the <hi>Presbyterians</hi> deſerted them,
+<pb n="2" facs="tcp:96219:3"/>and declared boldly againſt their Proceedings: But ſtill the others went on, and called themſelves the <hi>Godly Party,</hi> and the <hi>Saints,</hi> and all the Thanks the poor <hi>Presbyters</hi> got for aſſiſting them to get into Power, was to be trampled upon themſelves, and reviled as <hi>Antichriſtian</hi> and <hi>Apoſtates.</hi>
+            </p>
+            <p>Who were they that Baniſhed His preſent Majeſty, ſought that Life which could not have been preſerved but by a Miracle? Who Compoſed and Commanded <hi>Olivers</hi> ſtanding Army? Who Commanded all the Garriſons, Forts, Caſtles and Ships? Who Ruled according to Will, without and againſt Law? Even the very ſame Men, the <hi>Godly Party</hi> of <hi>Congre<g ref="char:EOLhyphen"/>gational Protestant Diſſenters.</hi>
+            </p>
+            <p>Who are they that cry out now againſt the Government, and talk of the great Danger of <hi>Anbitrary Power?</hi> Search the City, Examine the Coun<g ref="char:EOLhyphen"/>trey, Ranſack the Coffee Houſes, Frequent the Clubs: If you hear any Perſon inveigh againſt the Government, or Diſcourſe of the Fear of <hi>Arbi<g ref="char:EOLhyphen"/>trary Deſigns,</hi> you may pawn your Life on't, you may find him in a Con<g ref="char:EOLhyphen"/>venticle upon a Sunday, if he pretends to any Religion, or Reading <hi>Hobs</hi>'s Divinity, and Atheiſtical Principles at Home.</p>
+            <p>It is an Old Saying, <hi>He that Accuſes another ought to be clear himſelf:</hi> For ſhame, Let the <hi>Congregational-Men</hi> leave Clamouring about <hi>Perſecution</hi> and <hi>Arbitrary Government,</hi> of which they are ſo horribly guilty, and for which they have ſo great an Account to make to God Almighty: For though the Law may have forgiven them, yet without Repentance there is no Remiſſion in Heaven; and it is a very wild Repentance which brings no other Teſtimony than the Repetition of the ſame Offences, for which they ought to be Penitent.</p>
+            <p>And if this be a Demonſtration, that they are the ſame <hi>Congregational-Men,</hi> and only want Power, I will ſhew you their Picture drawn by their own hand, and if they look Black and Ugly, Perſecuting and Arbitrary with a Superlative Tincture, 'Tis their own handy-work, not one ſtroke of mine, more than hanging the Picture in its proper Light, which will diſcover its native Colours.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>At the Council at <hi>Whitehall,</hi> 
+                              <date>Wedneſday, Decemb. 21. 1653.</date>
+                           </dateline>
+                        </opener>
+                        <list>
+                           <head>Preſent,</head>
+                           <item>Mr. <hi>Lawrence</hi> Lord Preſident,</item>
+                           <item>Sir <hi>Anthony Aſhley-Cooper,</hi>
+                           </item>
+                           <item>Mr. <hi>Strickland,</hi>
+                           </item>
+                           <item>Lord Viſcount <hi>Liſle,</hi>
+                           </item>
+                           <item>Sir <hi>Charles Wolſeley,</hi>
+                           </item>
+                           <item>Coll. <hi>Jones,</hi>
+                           </item>
+                           <item>Major General <hi>Lambert,</hi>
+                           </item>
+                           <item>Major General <hi>Skippon,</hi>
+                           </item>
+                           <item>Coll. <hi>Sydenham.</hi>
+                           </item>
+                        </list>
+                        <p>THat it be referred to Sir <hi>Anthony Aſhley-Cooper</hi> and Coll. <hi>Jones,</hi> to draw up, and preſent to the Council a Bill for reſtraining and puniſhing of<hi>Sedition</hi> and <hi>Treaſon,</hi> and to Adviſe therein with the Council Learned of the Common-wealth.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Obſerve this <hi>Treaſon</hi> was to Aid or Aſſiſt His preſent Majeſty, (then in Exile) to recover His Crowns Obſerve here is a Bill without a Parliament but you ſhall preſently ſee a Bill paſſed into a formal Law without either Conſent of Lords or Commons: And was not this excellent Freedom of <hi>Parliament, Liberty of the Subject,</hi> and a Fence againſt <hi>Arbitrary Govern<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <q>
+               <pb n="3" facs="tcp:96219:3"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>Saturday, December 31. 1653.</date>
+                           </dateline>
+                        </opener>
+                        <list>
+                           <head>Preſent,</head>
+                           <item>His Highneſs the Lord Protector,</item>
+                           <item>Mr. <hi>Lawrence</hi> Lord Preſident,</item>
+                           <item>Sir <hi>Anthony Aſhley-Cooper,</hi>
+                           </item>
+                           <item>Coll. <hi>Mountague,</hi> &amp;c.</item>
+                        </list>
+                        <p>SIR <hi>Anthony Aſhley-Cooper</hi> Reports an Ordinance for Continuing the Powers to Commiſſioners for Compounding, <hi>&amp;c.</hi> For Advance of Money, and Indempnity, which was this day read, the firſt and ſecond time, <hi>&amp;c.</hi>
+                        </p>
+                        <p>The Ordinance was Agreed.</p>
+                        <p>Reſolved, That this Ordinance be preſented to His Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector, as the Advice of the Council.</p>
+                        <p>The Lord Preſident did accordingly preſent the ſame to His Highneſs, and being read, the ſaid Ordinance was by His Highneſs with the Advice and Conſent of the Council paſſed for a <hi>LAW,</hi> and was Ordered to be Printed and Publiſhed.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Obſerve here, After all the Blood and Treaſure ſpent, and the Solemn Oaths taken to Defend the Liberties, and Priviledges of the Parliament, againſt Arbitrary Power, how it is drawn into a Compendium of a Council of State! and the Free-born <hi>Engliſh</hi> Governed at the Will of His Highneſs and Officers! But this is not all, we want only a ſtanding Army and abſolute Dominion over Liberty and Eſtate to make up the compleat Picture of Arbitrary Government, and here it follows.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>Tueſday, Decemb. 4. 1655.</date>
+                           </dateline>
+                        </opener>
+                        <list>
+                           <head>Preſent,</head>
+                           <item>His Highneſs the Lord Protector,</item>
+                           <item>Lord Preſident <hi>Lawrence,</hi>
+                           </item>
+                           <item>Lord Deputy of <hi>Ireland,</hi>
+                           </item>
+                           <item>Sir <hi>Charles Woolſeley,</hi>
+                           </item>
+                           <item>Coll. <hi>Sydenham,</hi>
+                           </item>
+                           <item>Mr. <hi>Strickland,</hi>
+                           </item>
+                           <item>Col. <hi>Jones,</hi>
+                           </item>
+                           <item>Lord <hi>Lambert.</hi>
+                           </item>
+                        </list>
+                        <p>ORdered by His Highneſs the Lord Protector and the Council, That it be, and hereby is referred to the Committee for the Army to ſend into the ſeveral Counties of this Nation Printed Copies of the Order and Decla<g ref="char:EOLhyphen"/>ration of His Highneſs, with the Advice of His Council, for an Aſſeſſment of Sixty Thouſand Pounds by the Month for the next Six Months Commencing from the <hi>25th</hi> of <hi>December,</hi> Inſtant, for and towards the maintaining the Army of this Common-wealth, and to commend the ſame ſpeedily to the Care of ſuch Perſons in each County as they ſhall think fit, to diſtribute the ſame to the Commiſſioners thereby appointed, or ſome of them, to the Intent the matters therein contained, may be put in effectual Execution.</p>
+                        <div type="part">
+                           <pb n="4" facs="tcp:96219:4"/>
+                           <opener>
+                              <dateline>
+                                 <date>December 1. 1655.</date>
+                              </dateline>
+                           </opener>
+                           <list>
+                              <head>Inſtructions of His Highneſs and Council to certain Commiſſi. oners for ſecuring the Peace of the Common-wealth.</head>
+                              <item>
+                                 <hi>I.</hi> If it appear, That any Perſon hath actually ingaged in any deſign, againſt the Perſon of His Highneſs the Lord Protector, or in any Inſurrection in <hi>England</hi> or <hi>Wales,</hi> ſince <hi>Nov.</hi> 16. 1653. That all ſuch Perſons ſhall be ſe<g ref="char:EOLhyphen"/>cured, by Impriſonment, or Baniſhment, and have their Eſtates Sequeſtred for the Payment of the Forces newly raiſed, and other publick Charges of the Nation, Allowance for Wives and Children, not exceeding the third Part.</item>
+                              <item>
+                                 <hi>II.</hi> That all Perſone whatſoever, That ſhall appear by Words or Actions to adhere to the Intereſt of the Late King, on of <hi>Charles Stuart</hi> His Son, and to be dangerous Enemies to the Peace of the Common-wealth, to be ſecured by Impriſonment, or ſent beyond the Seas.</item>
+                              <item>
+                                 <hi>III.</hi> That an extraordinary Tax be Levied upon the Eſtates of every Perſon, whoſe Eſtate hath been Sequeſtred for Delinquency in <hi>England</hi> and <hi>Wales,</hi> or who hath been in actual Arms for the King againſt the Parliament, every one that hath an Eſtate of 100 <hi>l.</hi> per Annum, and ſo proportionably for all greater Eſtates: And whoſoever hath a Real, and Perſonal Eſtate to the value of 1500 <hi>l.</hi> or more, the real Eſtate of every ſuch Perſon, ſhall be aſſeſſed at 10 <hi>l.</hi> or at the Rate of 100 <hi>l.</hi> pet <hi>Annum,</hi> to be paid half yearly: The ſaid Payment to be made <hi>Decemb.</hi> 21. next enſuing: And the payment to be made to ſuch Perſons as the Commiſſioners ſhall appoint, And if any will refuſe to make Payment, then the Real Eſtates of ſuch Perſons ſhall be Sequeſtred by the Commiſſioners for the uſe of the Common-wealth, which Sequeſtra<g ref="char:EOLhyphen"/>tion ſhall continue, untill ſuch Perſons ſhall have paid in their Tax, and given ſufficient ſecurity for the payment of all ſuch Sums of Money as his real Eſtate ſhall be Aſſeſſed, and Taxed at as aforeſaid; And the ſame Rule to be obſerved for all Perſonal Eſtates of thoſe that ſtand in Contempt. Never<g ref="char:EOLhyphen"/>theleſs it any of the Perſons, whoſe Eſtates are ſo charged as aforeſaid, ſhall be deſirous to free their whole Eſtates from the Tax, and, if ſuch Perſons do ſet over by ſufficient Aſſurances in Law, Convey and Aſſure to the Protector, and his Succeſſors for the <g ref="char:V">Ʋ</g>ſe of the Common-wealth, Land free from Incum<g ref="char:EOLhyphen"/>brances of the Yearly Value impoſed on them, they ſhall then be free.</item>
+                              <item>
+                                 <hi>IV.</hi> That all of the ſaid Party who are Perſons of no Eſtates, and live looſely without Labour, be Apprehended, and ſent to Forein Parts.</item>
+                              <item>
+                                 <pb n="5" facs="tcp:96219:4"/>
+                                 <hi>V.</hi> That if any Perſons ſhall be ſent out of the Common-wealth, and ſhall re<g ref="char:EOLhyphen"/>turn without Licence, that their Eſtates ſhall be Sequeſtred to the Publick <g ref="char:V">Ʋ</g>ſe.</item>
+                              <item>
+                                 <hi>VI.</hi> That any Three of the Commiſſioners ſhall be impowred to Adminiſter Oaths, ſend for Perſons, Papers and Records, as alſo to Impriſon any Perſon for Contempt of their Order; for which the Commiſſioners ſhall be ſaved harmleſs, and imdemnified.</item>
+                           </list>
+                           <list>
+                              <head>Inſtructions for Commiſſioners of each County.</head>
+                              <item>I. <hi>YO<g ref="char:V">Ʋ</g> are to find out all Perſons compriſed under the Firſt Head, and to cauſe them to be forthwith ſecured within your County, and you are alſo by good ways and means to diſcover and find out, what Eſtates Real or Perſonal ſuch Perſons, or any other intruſted for them, or to their uſe, and benefit have had at, or on the firſt day of</hi> Sept. 1653. <hi>And to ſecure and ſe<g ref="char:EOLhyphen"/>queſter the ſame for the <g ref="char:V">Ʋ</g>ſe of the Common-wealth; and to certifie their Names together with the Account of your Proceedings to His Highneſs.</hi>
+                              </item>
+                              <item>II. <hi>You are to uſe you utmoſt Endeavours, to find out the Perſons compriſed under the ſecond Head, and to ſecure them.</hi>
+                              </item>
+                              <item>III. <hi>You are forthwith to inform your ſelves of the Names, and places of Abode of all ſuch Perſons as are compriſed under the third Head, and their Eſtates, and who are entruſted for them, And aſſoon as you know their Eſtates to proceed accordingly, and Tax the ſame.</hi>
+                              </item>
+                           </list>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Obſerve here, Dear Countrey-men, Impriſonment, Fine, and Baniſh<g ref="char:EOLhyphen"/>ment Commanded, and Practiſed with the higheſt Arbitrary Power, and to maintain a ſtanding Army.</p>
+            <p>Obſerve, It was by Clamouring againſt Arbitrary Government, that deluded the People to Rebel, and Aſſiſt them with Power, which when they had got, you ſee how the <hi>Congregational People</hi> uſed it.</p>
+            <p>Obſerve who are they that now make the outcry againſt Arbitrary Go<g ref="char:EOLhyphen"/>vernment, <hi>Andrew Marvel, Oliver</hi>'s <hi>Latin</hi> Secretary leads the Van, in a Libel, which wore that Name, and I need not tell you who they are that proſecute the out-cry.</p>
+            <p>If after all this you cannot by Comparing their paſt Actions, with their preſent, ſee the ſnare they are laying for your <hi>Liberty</hi> and <hi>Property,</hi> you are not ſo wiſe, as the Fowls of the Air, or the Beaſts of the Field; for <hi>Solomon</hi> tells you, <hi>In vain is the Snare laid in the ſight of any Bird.</hi> I have done my duty, I have told you the Truth, I have forewarn'd you of the
+<pb n="6" facs="tcp:96219:5"/>danger. If you ſuffer your ſelves to be impoſed upon, you can blame only your own Folly and Credulity.</p>
+            <p>I have but one thing to add, and that is, If you think, and find I have told you a plain Truth, and pointed to you where the real danger of Ar<g ref="char:EOLhyphen"/>bitrary Government lodges, That you would be as valiant for the Truth, as ſome ill People are againſt it, That you would upon all occaſions ſhew your ſelves good Subjects by vindicating His Majeſty and the Government from the ſcandalous Imputations, with which Virulent, and Seditious Tongues Blaſpheme the <hi>Footſleps of Gods Anointed,</hi> That you would Inform the Ignorant, confront the Impudent, ſatisfie the Doubtful and Staggering, and unite the Loyal, which will be no more than your own Duty, Intereſt, Safety, Liberty, and Property calls for at your Hands; And for the Con<g ref="char:EOLhyphen"/>gregational Declaimers againſt Arbitrary Government, Let them remem<g ref="char:EOLhyphen"/>ber <hi>Adonibezek</hi>'s Toes and Thumbs, and the Gratious Act of Oblivion, and know that in Heavens Court of Judicature, forbearance is no part of Payment. Let them repent of their former Arbitrary and Tyran<g ref="char:EOLhyphen"/>nical Uſurpation, or elſe I fear and juſtly too, they will pull down <hi>ſwift deſtruction</hi> upon themſelves, while they are <hi>preparing a pit for others.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96219:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
